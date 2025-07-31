@@ -5,3 +5,5 @@ pandas
 scikit-learn
 
 matplotlib
+
+#pip install -r requirements.txt
