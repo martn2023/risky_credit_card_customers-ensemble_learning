@@ -30,13 +30,14 @@ So far, we've done basic regression models, basic classifiers, and basic decisio
 - Combining multiple methods
 
 ### Chronology of Topics
-Consider that the data scientist/Applied Machine Learning Engineer is a handyman trying to build a house.
-
-#### Chronology of Topics
 - **Baseline (standalone) vs Ensemble Models**: Reviewing what we've learned in previous chapters, drawing context for how they inform ensemble learning
 - **Bagging - Random Forest**: Demonstration of Random Forest with Taiwanese credit card company
 - **Boosting and Stacking**: How this differs from Bagging 
 - **Strategic Outcome**: What are we going to do with these findings, if anything?
+
+### How to Use
+See the 5 Jupyter notebooks to the left
+![img.png](screenshot_notebooks.png)
 
 
 # III. Major Learnings:
